@@ -35,3 +35,9 @@
 - Poders o tecnologia: Màgia, portals dimensionals i arts místiques.
 - Origen: Antic cirurgià que aprèn les arts místiques.
 - Funció: Defensa la Terra contra amenaces sobrenaturales.
+
+
+
+## Relacions entre superherois
+
+- Iron Man i Spider-Man: Tony Stark es converteix en el mentor de Peter Parker i l'ajuda a millorar el seu vestit tecnològic.

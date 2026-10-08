@@ -20,3 +20,11 @@
 - Escenari: La Terra i diferents planetes de l'univers.
 - Resum: Thanos busca les Gemmes de l'Infinit per controlar l'univers. Els Avengers s'uneixen per impedir-ho en una batalla decisiva.
 - Relació amb la saga: Capítol 4, la batalla pel futur de la Terra.
+
+
+## Nova escena: L'entrenament de Spider-Man
+
+- Protagonistes: Iron Man i Spider-Man.
+- Escenari: Laboratori de Tony Stark.
+- Resum: Tony Stark ajuda Peter Parker a millorar el seu vestit tecnològic i li ensenya a utilitzar les seves habilitats amb responsabilitat.
+- Relació amb la saga: Aquesta escena reforça la relació entre els dos herois i prepara Spider-Man per a futures batalles amb els Avengers.
