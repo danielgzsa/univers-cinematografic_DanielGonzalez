@@ -26,7 +26,7 @@
 
 ## Spider-Man
 - Nom: Peter Parker
-- Poders o tecnologia: Agilitat sobrehumana, sentit aràcnid i llançateranyines.
+- Poders o tecnologia: Agilitat robotica, sentit aràcnid i llançateranyines.
 - Origen: Jove que obté els seus poders després de la picada d'una aranya modificada genèticament.
 - Funció: Protegeix la ciutat i ajuda els Avengers.
 
@@ -34,4 +34,4 @@
 - Nom: Stephen Strange
 - Poders o tecnologia: Màgia, portals dimensionals i arts místiques.
 - Origen: Antic cirurgià que aprèn les arts místiques.
-- Funció: Defensa la Terra contra amenaces sobrenaturals.
+- Funció: Defensa la Terra contra amenaces sobrenaturales.
